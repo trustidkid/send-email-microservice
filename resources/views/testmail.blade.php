@@ -14,7 +14,7 @@
                     <a class="navbar-brand" href="#">Email Service</a>
                   </div>
                   <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
+                    <li class="active"><a href="/home">Home</a></li>
                     <li><a href="#"></a></li>
                     <li><a href="#"></a></li>
                   </ul>

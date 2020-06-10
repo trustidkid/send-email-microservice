@@ -7,7 +7,7 @@
     <title>Mail Setup</title>
 </head>
 <body>
-    <h1>{{$detail['subject']}}</h1>
+    <p>{{$detail['subject']}}<p>
     <p>{{$detail['body']}}</p>
 
     <p>Thank you</p>

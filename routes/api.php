@@ -20,6 +20,6 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::post('/v1/sendmail', 'SendmailController@sendmail');
 
-Route::post('/v1/sendmail', 'SendmailController@sendmail');
+Route::post('/v1/sendmailwithtemplate', 'SendmailController@sendmail');
 
 

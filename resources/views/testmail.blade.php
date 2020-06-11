@@ -26,7 +26,7 @@
               </nav>
               <div class="col-sm-4"></div>
               <div class="col-sm-4">
-                    <form class="jumbotron form-group" action="https://sendmailmicroservice.herokuapp.com//api/v1/sendmailwithtemplate" method="POST">
+                    <form class="jumbotron form-group" action="https://sendmailmicroservice.herokuapp.com/index.php/api/v1/sendmailwithtemplate" method="POST">
                         <label for="recipient">To:</label><br>
                         <input class="form-control" type="text" name="recipient" id="recipient" placeholder="Enter your email"/>
                         <label for="recipient">cc:</label>
